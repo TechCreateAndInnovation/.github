@@ -1,5 +1,5 @@
 # Welcome to TechCreateAndInnovation! 
-We are a tech company that specializes in creating innovative solutions for businesses and organizations. Our team is made up of experienced software developers, designers, and problem solvers who are passionate about using technology to make a positive impact.
+We are a tech company that  aim to solve South African problems using technology. Our team is made up of experienced software developers, designers, and problem solvers who are passionate about using technology to make a positive impact.
 
 # Here is a summary of what you can find in this repository:
 
