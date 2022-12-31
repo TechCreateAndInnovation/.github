@@ -3,11 +3,11 @@ We are a tech company that  aim to solve South African problems using technology
 
 # Here is a summary of what you can find in this repository:
 
-docs: This folder contains documentation for our products and services, as well as technical guides and instructions.
+#### docs: This folder contains documentation for our products and services, as well as technical guides and instructions.
 
-src: This folder contains the source code for our products and projects.
+#### src: This folder contains the source code for our products and projects.
 
-tests: This folder contains test cases and scripts for testing our products and projects.
+#### tests: This folder contains test cases and scripts for testing our products and projects.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TechCreateAndInnovation&show_icons=true&theme=radical">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechCreateAndInnovation&layout=compact">
@@ -45,7 +45,7 @@ tests: This folder contains test cases and scripts for testing our products and 
 &nbsp;
 &nbsp;
 
-# Our Technology Stack - What Technology We Use.
+# Our Technology Stack
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
