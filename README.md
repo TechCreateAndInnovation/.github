@@ -45,7 +45,7 @@ tests: This folder contains test cases and scripts for testing our products and 
 &nbsp;
 &nbsp;
 
-# Our Teach Stack
+# Our Technology Stack - What Technology We Use.
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
